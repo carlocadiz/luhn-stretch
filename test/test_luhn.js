@@ -22,3 +22,4 @@ describe("Luhn validation function", function() {
     var result = luhn(number);
     assert.isTrue(result);
   });
+});
